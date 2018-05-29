@@ -6,3 +6,4 @@
 REPORT ZTESTOFFPROG2.
 
 write 'Hello world from offline program 2'.
+write 'Hello world from github.com'.
